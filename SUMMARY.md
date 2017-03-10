@@ -10,6 +10,7 @@
 * [组织结构管理](d385/organization.md)
   * [机构管理](d385/organization/association.md)
   * [会员管理](d385/organization/member.md)
+  * [年度管理](d385/organization/year.md)
   * [职务管理](d385/organization/position.md)
 * [分区管理](d385/section.md)
   * [专区管理](d385/section/region.md)

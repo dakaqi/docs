@@ -14,7 +14,7 @@
   * [职务管理](d385/organization/position.md)
 * [分区管理](d385/section.md)
 * [服务队管理](d385/ngo.md)
-  * [createngo](d385/ngo/createngo.md)
+  * [创建服务队](d385/ngo/createngo.md)
   * ngolist
   * managengo
 * [目标管理](d385/target.md)

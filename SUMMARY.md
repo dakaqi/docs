@@ -13,8 +13,6 @@
   * [年度管理](d385/organization/year.md)
   * [职务管理](d385/organization/position.md)
 * [分区管理](d385/section.md)
-  * [专区管理](d385/section/region.md)
-  * [分区管理](d385/section/zone.md)
 * [服务队管理](d385/ngo.md)
   * createngo
   * ngolist

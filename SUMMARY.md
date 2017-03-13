@@ -15,7 +15,6 @@
 * [分区管理](d385/section.md)
 * [服务队管理](d385/ngo.md)
   * [创建服务队](d385/ngo/createngo.md)
-  * [查询服务队](d385/ngo/ngolist.md)
   * [管理服务队](d385/ngo/managengo.md)
 * [目标管理](d385/target.md)
 * [统计报表](d385/statics.md)

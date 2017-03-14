@@ -37,7 +37,7 @@
 ## 志愿者
 
 * [志愿者账户](志愿者/志愿者账户注册.md)
-* [活动/会议/培训/资讯](志愿者/huo-52a8hui-8bae-pei-8bad-zi-xun.md)
+* [参与活动/会议/培训/资讯](志愿者/huo-52a8hui-8bae-pei-8bad-zi-xun.md)
 * [订阅](志愿者/ding-yue.md)
 * [展示个人公益成就](志愿者/ge-ren-gong-yi-cheng-jiu.md)
 * [福利](志愿者/fu-li.md)

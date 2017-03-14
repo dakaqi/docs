@@ -23,6 +23,15 @@
 ## 服务队
 
 * [账户](account.md)
+* [目标管理](account/mu-biao-guan-li.md)
+* [会员管理](hui-yuan-guan-li.md)
+* [培训管理](pei-xun-guan-li.md)
+* [会议管理](hui-yi-guan-li.md)
+* [活动管理](huo-dong-guan-li.md)
+* [资讯管理](zi-xun-guan-li.md)
+* [常用服务地址管理](chang-yong-fu-wu-di-zhi-guan-li.md)
+* [受助对象管理](shou-zhu-dui-xiang-guan-li.md)
+* 统计报表
 
 ## 志愿者
 

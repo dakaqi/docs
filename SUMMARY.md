@@ -19,6 +19,7 @@
 * [目标管理](d385/target.md)
 * [统计报表](d385/statics.md)
 * [资讯管理](d385/article.md)
+* [概况](d385/gai-kuang.md)
 
 ## 服务队
 

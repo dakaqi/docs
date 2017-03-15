@@ -27,12 +27,11 @@
 * [目标管理](account/mu-biao-guan-li.md)
 * [会员管理](hui-yuan-guan-li.md)
   * 招募准会员
-  * 管理成员
+  * [管理成员](hui-yuan-guan-li/guan-li-cheng-yuan.md)
   * [组织结构管理](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li.md)
     * [机构管理](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li/ji-gou-guan-li.md)
     * [职务管理](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li/zhi-wu-guan-li.md)
-    * [组织结构上报](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li/zu-zhi-jie-gou-shang-bao.md)
-    * [会员资格设定](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li/hui-yuan-zi-ge-she-ding.md)
+    * [入会资格设定](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li/hui-yuan-zi-ge-she-ding.md)
 * [培训管理](pei-xun-guan-li.md)
 * [会议管理](hui-yi-guan-li.md)
 * [活动管理](huo-dong-guan-li.md)

@@ -28,7 +28,7 @@
 * [会员管理](hui-yuan-guan-li.md)
   * [招募准成员](hui-yuan-guan-li/zhao-mu-zhun-hui-yuan.md)
     * [发布招募](hui-yuan-guan-li/zhao-mu-zhun-hui-yuan/fa-bu-zhao-mu.md)
-    * 管理招募
+    * [管理招募](hui-yuan-guan-li/zhao-mu-zhun-hui-yuan/guan-li-zhao-mu.md)
   * [管理成员](hui-yuan-guan-li/guan-li-cheng-yuan.md)
   * [组织结构管理](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li.md)
     * [机构管理](hui-yuan-guan-li/zu-zhi-jie-gou-guan-li/ji-gou-guan-li.md)

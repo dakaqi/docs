@@ -38,7 +38,7 @@
 * [会议管理](hui-yi-guan-li.md)
 * [活动管理](huo-dong-guan-li.md)
 * [资讯管理](zi-xun-guan-li.md)
-* [常用服务地址管理](chang-yong-fu-wu-di-zhi-guan-li.md)
+* [常用地址管理](chang-yong-fu-wu-di-zhi-guan-li.md)
 * [受助对象管理](shou-zhu-dui-xiang-guan-li.md)
 * [统计报表](tong-ji-bao-biao.md)
 
